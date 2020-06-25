@@ -1,2 +1,3 @@
 # red_arabidopsis1
 trabajo final del curso 
+en este proyecto se realizo la busqueda de los genes som y play en genemania extraidos de un trabajo en pdf una vez optenidos se opserva que el gen plant tiene una interaccion fisica muy alta de 67.64% y unas interacciones geneticas bajas  de 1.40%, en cambio el gen som fue localizado como un factor transcripcional por lo que en la imagen no se muestra sin embargo lo que yo llego a notar es q el gen plant tiene interacciones con  bastantes genes ya sea muy altas o bajas estas interacciones por lo que puede llegar a influenciar si llega a tener un cambio aun que no se si sera alto o bajo lo q influenciaria 
